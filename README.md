@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+Strongly Typed by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/songbird175/SouthMauiLearningOhana/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Strongly Typed, a new site template with a minimal, semi-retro
+look (inspired by old instruction manuals) and, as you might guess from its
+name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
+and includes styling for all basic page elements. Demo images* are courtesy of
+regularjane, an incredibly talented photographer friend of mine. Be sure to
+check out more of her work over at deviantART:
 
-### Markdown
+http://regularjane.deviantart.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Jane's work without her explicit permission!)
 
-```markdown
-Syntax highlighted code block
+As usual, feedback, bug reports, and comments are not only welcome, but strongly
+encouraged :)
 
-# Header 1
-## Header 2
-### Header 3
+AJ
+aj@lkn.io | @ajlkn
 
-- Bulleted
-- List
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Credits:
 
-[Link](url) and ![Image](src)
-```
+	Demo Images:
+		regularjane (regularjane.deviantart.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songbird175/SouthMauiLearningOhana/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
+		Respond.js (j.mp/respondjs)
+		jquery.dropotron (@ajlkn)
+		Skel (skel.io)
